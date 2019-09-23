@@ -1,6 +1,6 @@
-# Aplicación financiera
+# APLICACIÓN FINANCIERA
 
-## Preámbulo
+## PREÁMBULO
 
 El banco más importante del país, siguiendo las tendencias de otros países, está
 planeando lanzar un banco 100% digital bajo otro nombe: "Banqui". Su principal
@@ -9,200 +9,120 @@ joven del país. Para ello han venido piloteando un app con un número pequeño 
 usuarios. Los resultados de este piloto son mixtos, hay algunas cosas que han
 sido bien recibidas por los usuarios, y hay otras que se tienen que mejorar aún.
 
-Para poder ayudarlos a entender mejor las necesidades de sus clientes y crear
-el mejor banco digital del país han decidido contratar a una consultora de UX,
-donde le han asignado este proyecto a ti y otra compañera de Laboratoria.
+## INTRODUCCIÓN
+Banqui el banco que piensa en ti. Sabiendo que nuestro público esta creciendo cada vez más en el ámbito digital, y que en los siguientes años todo se volverá 100% tecnológico. Se está innovando en los productos que ofrecemos para adecuarnos al mercado actual y futuro.
 
-## Introducción
+## DESCUBRIMIENTO E INVESTIGACIÓN
 
-### Contexto
+ En esta etapa buscamos entender la problemática de banqui para los usuarios en relación a sus necesidades.
+ Realizamos entrevistas al PO y a los posible usuarios, se realizo el test digital en MAZE y test de guerrilla.
 
-Durante la primera semana de entendimiento de los requerimientos, el Product
-Manager les comparte las hipótesis y preguntas que tienen dentro del equipo:
+### PRESUPUESTO
 
-> Los usuarios que anteriormente han sido clientes de algún banco, nos comparan
-  con las aplicaciones de esos bancos, parece que hay cosas que extrañan.
+![Presupuesto](https://user-images.githubusercontent.com/51204770/65444975-d793ed00-ddf6-11e9-9632-1994c8f33137.png)
 
-> La aplicación que estamos probando es para iOS, sin embargo, para hacer un
-  lanzamiento nacional necesitamos crear un app para Android.
+### TEST ONLINE
 
-> Nos falta acercarnos un poco más a los usuarios jóvenes, 100% digitales, los
-  que usan Netflix, Uber, Spotify, Instagram, entre otros.
+ Realizamos test a 30 usuarios en las que se les encargó 8 tareas de las cuales 2 tareas resultaron más complicadas, difíciles de realizar y hubieron casos de abandono, estas fueron:
+- Revisa tus últimos movimientos
+- Paga tu último recibo de teléfono
 
-### Recursos
+![Maze](https://user-images.githubusercontent.com/51204770/65446610-55a5c300-ddfa-11e9-9713-34e1db87a0a7.png)
 
-En esta carpeta de [Google Drive](https://drive.google.com/drive/folders/1etdcDyoN7C038ti_i4RhavK2DWEAc1yH?usp=sharing) y en los siguientes
-links, encontrarán:
 
-- Los user personas
-- El user flow del MVP
-- El [diseño del app en Figma](https://www.figma.com/file/im1tb4vPyt9bMVlhzqlHIR/S02E01-App-Financiera?node-id=0%3A1)
-  , con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/1hj56576/screen/60926857).
-- Analytics de los primeros 6 meses del MVP
-- Data de uso del MVP de los primeros 6 meses
+### DIAGRAMA DE AFINIDAD 
 
-## Objetivos de aprendizaje
+ Ya después de realizar los testeos seleccionamos toda la información agrupandola en nuestro diagrama y resaltando los temas mas resaltantes.
 
-El objetivo principal de este proyecto es que te enfrentes al reto de rediseñar
-un producto ya existente. Es muy probable que termines trabajando en productos
-existentes y que para tener un buen entendimiento del problema, debas analizar
-data de ese producto y complementar esta data con investigación de campo. Para
-luego definir una estrategia de producto de acuerdo a los objetivos del negocio,
-pero sin dejar de lado los objetivos y necesidades de los usuarios. Puedes leer
-sobre el trabajo de un UX Designer en rediseño este [blogpost](https://blog.continuum.cl/preguntas-para-dejar-de-ser-ux-designer-y-empezar-a-ser-un-ux-redesigner-143e5467ec8d).
+![affinitymap](https://user-images.githubusercontent.com/51222789/65447596-8555ca80-ddfc-11e9-910f-a71583f79ae4.png)
 
-En este proyecto pondrás en práctica habilidades de: análisis de datos,
-investigación de campo, pensamiento crítico, cuestionamiento, síntesis, diseño
-de componentes de la interfaz y user testing.
 
-## Consideraciones generales
+### BENCHMARK 
 
-Como ya habrás notado, gran parte del trabajo de UX tiene relación con el
-desempeño de tus habilidades blandas. Estas habilidades nos acompañan a lo largo
-de cualquier proyecto y su desarrollo es clave para el éxito. Estas habilidades
-no sólo son utilizadas a la hora de entender al usuario, sino a lo largo de toda
-la ejecución, es decir desde cómo planificamos hasta nuestra presentación al
-cliente.
+Realizamos un estudio comparativo sobre Estructura y el diseño del producto (que elementos incluir, cómo distribuir y jerarquizar la información).
 
-Anteriormente, nos habíamos concentrado en el desarrollo de tu curiosidad y
-empatía, practicado cómo relacionarte con el cliente y el usuario. Siempre debes
-pensar quiénes son y qué necesitan, y no enfocarte en lo que tú consideras que
-podría ser la solución correcta. Se trata de entender que nosotros no somos el
-usuario, y debemos hacer el ejercicio empático de comprenderlo a él y a nuestro
-cliente.
+![Benchmark](https://user-images.githubusercontent.com/51204770/65444049-de216500-ddf4-11e9-87d2-e9df54bb8992.png)
 
-Este proyecto, a diferencia de otros, no debes partir desde cero generando un
-prototipo, sino investigar lo que el banco ya ha construido y en base a eso
-hacer una propuesta. Para esto, te aconsejamos comenzar por investigar
-la información que tienes; entender qué datos ya manejas y qué elementos
-necesitas averiguar para completar tu proyecto. De esta manera, tu planificación
-es muy relevante para comprender la problemática.
+### USER PERSONA 
 
-Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
-elementos debes investigar. Además, te permitirá trabajar de mejor manera con tu
-compañera, te aconsejamos que consideres tiempo para poder iterar sobre las
-posibilidades de mejora y también para preparar la presentación.
+Redefinimos el user persona ya que el usuario objetivo era mas extenso del que se mostraba en un principio, haciendolo más cercano a nuestros posibles usuarios.
 
-La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
-si no conoces plataformas financieras parte por investigar sobre ellas. No
-esperes que los contenidos lleguen a ti, más bien busca todo lo que necesites
-para poder encontrar la mejor solución.
+![User persona](https://user-images.githubusercontent.com/51204770/65446206-7cafc500-ddf9-11e9-88ce-b7c4016604d2.png)
 
-Parte importante de tu trabajo como UX designer es tomar decisiones.
-Efectivamente existen múltiples herramientas que puedes utilizar, debes
-comprender para qué y con qué finalidad escoges usar cada una de ellas. Siempre
-piensa que debes justificar todo gasto con tu consultora y el cliente, cada
-decisión que tomes en el proyecto debe ser fundamentada, no sigas pasos
-mecánicos por seguirlos, cuestiónate constantemente.
+### COSTUMER JOURNEY MAP 
 
-Por último, considera que la calidad de tu presentación es tan importante como
-el proceso completo. Un proyecto que no se aprecia al ser presentado no es un
-buen proyecto. Si vas a utilizar una slides frente a un cliente, se prolija en
-el diseño de ellos y en la información que entregas, también busca la mejor
-manera de mostrar tu demo y por sobre todo prueba antes de presentar frente al
-cliente.
+Definimos los puntos de dolor del usuario en sus ahorros y pagos.
 
-## Entrega
+![Costumer Journey Map](https://user-images.githubusercontent.com/51204770/65444451-a7981a00-ddf5-11e9-923b-5fb3da684fa3.png)
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
 
-README.md  detallando:
+### PROBLEM STATEMENTS
 
-* Objetivos iniciales del proyecto
-* Problemas encontrados tanto a nivel de negocio como a nivel de usuario
-* Recomendaciones de próximos pasos para el banco con respecto al app
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
-  estos deberán ser diseñados y entregados en un prototipo de alta definición.
+Después de toda la invetigación establecimos los problems statements:
 
-Un video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
+- Pedro necesita organizar los pagos de sus servicios para no pasarse de la fecha límite.
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
+  HMW hacer que Pedro no se pase la fecha límite de pagos?
+  HMW hacer para organizar los pagos de Pedro?
+  HMW para avisar de los pagos a pedro?
+  What IF  Pedro calendariza/programa sus pagos
+  What IF Pedro recibe alertas de sus pagos
 
-### Hacker edition
+- Pedro necesita ahorrar una parte de su sueldo para cumplir su objetivo de comprarse un carro
 
-Para el hacker edition puedes elegir una o varias de estas opciones:
+  HMW hacer para que Pedro ahorre?
+  HMW asegurar que una parte de su sueldo se guarde para su carro?
+  HMW saber cuanto quiere ahorrar?
+  WHAT IF la app le ayudase a calcular sus ahorros
+  WHAT IF se debita un monto de su sueldo a su objetivo de ahorro.
+  WHAT IF pueda ponerse metas de ahorro.
 
-- Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
-  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
-  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
-  fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
-  en un documento adicional (en el formato que prefieras).
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0. 
-- Escribe un post en Medium contando tu proceso de investigación.
+- Pedro necesita enviar dinero  rápidamente a sus proveedores para que lleguen sus materiales y sus proyectos salgan a tiempo. 
 
-## Otras consideraciones
+  HMW para que los pagos se realicen rápido?
+  HMW para que los procesos de transferencia sean sólo los necesarios?
+  WHAT IF tiene la opción de pagos favoritos
+  What if se redujera los pasos para transferencias 
 
-### 1) Planeamiento y presupuesto
+- Pedro Necesita desactivar su tarjeta que no está seguro si la perdió, para asegurarse que no se utilice fraudulentamente.
 
-En el reto con emprendimientos te entregamos una lista de tareas que podías
-realizar y le asignamos un valor en puntos a cada tarea. Además, te dimos un
-presupuesto de 300 puntos para que los utilices en esas tareas. Para este reto,
-la lista de tareas, el valor en puntos de cada tarea y el presupuesto total
-de las actividades a realizar lo crearás tú y lo tendrás que sustentar con tu
-coach. Adicinalmente, deberás sustentar con tu coach qué entregables harás
-llegar al banco al final de tu investigación y por qué. El coach te aprobará
-estos entregables o te dará feedback para mejorarlos.
+  HMW para que la  tarjeta deje de funcionar por solo un periodo de tiempo?
+  HMW para que la tarjeta se bloquee y que pueda desbloquearla luego?
+  WHAT IF tuviese una opción de apagar o prender tarjeta
+  WHAT IF pudiese manejar el estado de su tarjeta
 
-Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
-de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
-te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
-tuviste al desarrollar el proyecto 1.
+### FEATURE LIST
 
-### 2) Prototipo de alta fidelidad
+![Feature list](https://user-images.githubusercontent.com/51204770/65446288-a79a1900-ddf9-11e9-8733-311af19210e6.png)
 
-Existen varias herramientas que puedes utilizar para crear diseñar el producto,
-en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
-seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
-como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
-ya que para el testing tendrás que usar una herramienta llamada
-[Maze](https://maze.design/) que funciona mejor con estas.
+## PROTOTIPADO
 
-Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
-como: contraste, alineación, jerarquía, entre otros.
+ Realizamos Sketches para rediseñar el prototipo inicial de banqui poniendo como prioridad las operaciones mas frecuentes.
 
-## Evaluación
+[MARVEL](https://marvelapp.com/1i68b4dg/screen/61487589)
 
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
+## USER TESTING
 
-### Habilidades Blandas
+### Test de Baja Fidelidad
 
-| Habilidad                    | Nivel esperado |
-|------------------------------|----------------|
-| **Autogestión**                               |
-| Planificación y organización | 4              |
-| Autoaprendizaje              | 4              |
-| Presentaciones               | 4              |
-| Adaptabilidad                | 4              |
-| Solución de problemas        | 4              |
-| **Relaciones interpersonales**                |
-| Trabajo en equipo            | 4              |
-| Responsabilidad              | 4              |
-| Dar y recibir feedback       | 4              |
-| Comunicación eficaz          | 4              |
+- Facilitar los pasos para realizar los pagos
+- Mostrar los servicios más comunes cuando se realiza los pagos.
+- Facilitar regresar a los inicios desde cualquier pantalla.
+- Ubicar en el menú inferior los íconos de las operaciones más frecuentes.
+- En Ahorro cambio de color de los iconos de acuerdo al tipo de gasto.
 
-### UX
 
-| Habilidad                      | Nivel esperado |
-|--------------------------------|----------------|
-| **Research**                                    |
-| User centricity                | 4              |
-| Entrevistas                    | 3              |
-| Testing                        | 3              |
-| Planeamiento y ejecución       | 3              |
-| Síntesis de resultados         | 3              |
-| **Interaction design**                          |
-| Diseño de interacción          | 3              |
-| Arquitectura de la información | 3              |
-| Prototyping                    | 3              |
-| **Visual design**                               |
-| Visual Design                  | 3              |
-| **Business mindset**                            |
-| Business mindset               | 3              |
+### Test de Alta Fidelidad
+
+- Encontrar fácilmente la opción de control de gastos.
+- Más opciones en la categoría de  control de gastos.
+- Hacer más amigable la tarjeta. 
+- Cerrar sesión. 
+- Pagos y transferencias fáciles de ubicar con pasos sencillos. 
+- Ubicación de configuración de tarjeta esperada. 
+
+### VIDEO LOOM 
+
+[LOOM](https://www.loom.com/share/0112fe76bc934bd7a482d52dba964fcc)
+
+Yanina Contreras Layme & Adriana Bautista Vargas
